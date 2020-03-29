@@ -1,4 +1,4 @@
-transformers
+transformers==2.3.0
 sentence-transformers
 torch
 tqdm
